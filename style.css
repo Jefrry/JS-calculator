@@ -1,0 +1,37 @@
+.calculator{
+  margin: 0 auto;
+}
+input{
+  background-color: #ffffff;
+}
+#total {
+  width: 178px;
+  height: 50px;
+}
+#c,#ce{
+  width: 84px;
+  margin-top: 4px;
+}
+
+.calculator{
+  background: #ebeaf8;
+  padding: 10PX;
+  width: 178px;
+  border-radius: 5px;
+}
+
+button {
+  height: 40px;
+  width: 40px;
+}
+
+.btn-2x {
+  width: 84px;
+}
+.btn-4x {
+  width: 172px;
+}
+
+.line-1,.line-2,.line-3, .line-4,.line-5{
+  padding-bottom: 4px;
+}
